@@ -2,10 +2,15 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Summary of university subjects that I have been involved in teaching with.
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+# 2021
+## Semester 2
+- MAST30027 (Modern Applied Statistics)
+    - Tutor (Teaching Assistant)
+    - Ran two practical classes (tutorials), each consisting of 15+ students.
+    - Went through worked examples on paper, and also demonstrated R code implementations.
+    - Marked students' assignments throughout the semester. 
 
-Organize your courses by years, topics, or universities, however you like!
