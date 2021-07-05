@@ -7,7 +7,7 @@ nav: true
 ---
 
 ### 2021
-### Semester 2
+#### Semester 2
 - MAST30027 (Modern Applied Statistics)
     - Tutor (Teaching Assistant)
     - Ran two practical classes (tutorials), each consisting of 15+ students.
