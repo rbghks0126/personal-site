@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
+title: Melbourne house prices prediction
+description: End-to-end data science project on predicting houses prices in Melbourne.
+img: /assets/img/personal_MelbHouse.PNG
 importance: 1
 category: personal
 ---
