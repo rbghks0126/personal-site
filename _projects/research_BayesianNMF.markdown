@@ -2,7 +2,7 @@
 layout: page
 title: Bayesian NMF
 description: Developing Bayesian non-negative matrix factorisation algorithm.
-img: /assets/img/research_bayesianNMF.png
+img: /assets/img/research_bayesianNMF.PNG
 redirect: https://rbghks0126.github.io/website/AMSI.html
 importance: 1
 category: research
