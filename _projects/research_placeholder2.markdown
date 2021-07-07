@@ -2,8 +2,9 @@
 layout: page
 title: placeholder 2
 description: a project with a background image
-img: /assets/img/1.jpg
-importance: 3
+img: /assets/img/research_routingOptimisation.PNG
+redirect: https://github.com/rbghks0126/Optimisation-Group-Project
+importance: 2
 category: research
 ---
 

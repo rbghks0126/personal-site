@@ -3,7 +3,7 @@ layout: page
 title: placeholder
 description: a project with no image
 img:
-importance: 2
+importance: 10
 category: research
 ---
 
