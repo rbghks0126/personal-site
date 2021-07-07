@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Melbourne house prices prediction
-description: End-to-end data science project on predicting houses prices in Melbourne.
+description: End-to-end data science project on predicting houses prices using supervised regression algorithms.
 img: /assets/img/personal_MelbHouse.PNG
 redirect: https://github.com/rbghks0126/Melbourne-house-price
 importance: 1
