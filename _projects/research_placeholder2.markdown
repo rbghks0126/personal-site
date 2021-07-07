@@ -1,7 +1,7 @@
 ---
 layout: page
-title: placeholder 2
-description: a project with a background image
+title: Routing Optimisation
+description: Home care services routing optimisation project using Mixed Integer Programming in Julia.
 img: /assets/img/research_routingOptimisation.PNG
 redirect: https://github.com/rbghks0126/Optimisation-Group-Project
 importance: 2
