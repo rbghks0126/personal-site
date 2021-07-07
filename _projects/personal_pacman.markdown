@@ -1,8 +1,9 @@
 ---
 layout: page
-title: placeholder
-description: a project with a background image
-img: /assets/img/3.jpg
+title: AI Pacman bot
+description: Project for 'COMP20003 - Algorithms and Data Strucures'. Built a Pacman bot using Dijkstra's algorithm in C that moves in the optimal direction at each step to avoid the ghosts and eat all the fruits.
+redirect: https://github.com/rbghks0126/AI-Pacman
+img: /assets/img/personal_pacman.PNG
 importance: 2
 category: personal
 ---
