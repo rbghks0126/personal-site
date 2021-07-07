@@ -1,10 +1,10 @@
 ---
 layout: page
-title: AI Pacman bot
-description: Project for 'COMP20003 - Algorithms and Data Strucures'. Built a Pacman bot using Dijkstra's algorithm in C that moves in the optimal direction at each step to avoid the ghosts and eat all the fruits.
+title: sentiment analysis
+description: Project for 'COMP30027 - Machine Learning'. Sentiment analysis on text data of restaurant reviews. Supervised classification task of predicting the review rating from text data.
 redirect: https://github.com/rbghks0126/AI-Pacman
-img: /assets/img/personal_pacman.png
-importance: 2
+img: /assets/img/personal_sentimentAnalysis.jpg
+importance: 3
 category: personal
 ---
 
