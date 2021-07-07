@@ -2,7 +2,7 @@
 layout: page
 title: sentiment analysis
 description: Project for 'COMP30027 - Machine Learning'. Sentiment analysis on text data of restaurant reviews. Supervised classification task of predicting the review rating from text data.
-redirect: https://github.com/rbghks0126/AI-Pacman
+redirect: https://github.com/rbghks0126/sentiment-analysis-restaurant-reviews
 img: /assets/img/personal_sentimentAnalysis.jpg
 importance: 3
 category: personal
