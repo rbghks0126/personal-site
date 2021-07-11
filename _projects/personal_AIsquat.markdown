@@ -19,13 +19,13 @@ For squat, I defined 3 classes for 'stand', 'squat', and 'bent'. See some exampl
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/personal_AIsquat_stand.PNG' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/personal_AIsquat_stand2.PNG' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/personal_AIsquat_squat.PNG' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/personal_AIsquat_squat2.PNG' | relative_url }}" alt="" title="example image"/>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/personal_AIsquat_bent.PNG' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/personal_AIsquat_bent2.PNG' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
