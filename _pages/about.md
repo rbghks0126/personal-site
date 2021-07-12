@@ -28,7 +28,7 @@ I hope to use this website as a medium to share some of my projects relating to 
 <div class="timeline">
   <div class="box left">
     <div class="content">
-      <h5>2018-2020</h5>
+      <h5>2018 - 2020</h5>
       <p>Bachelor of Science (Mathematics & Statistics) - University of Melbourne</p>
     </div>
   </div>
