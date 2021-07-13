@@ -1,10 +1,10 @@
 ---
 layout: page
-title: personal
-permalink: /projects/
-description: A growing collection of my personal projects.
+title: research
+permalink: /research/
+description: A growing collection of my research projects.
 nav: true
-display_categories: [personal]
+display_categories: [research]
 horizontal: false
 ---
 <div class="projects">
