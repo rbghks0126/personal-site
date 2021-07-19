@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Customer Segmentation
-description: Performing preprocessing, EDA and customer segmentation using RFN and clustering on online retail data from Kaggle.
+description: Performing preprocessing, EDA and customer segmentation using RFM and clustering on online retail data from Kaggle.
 img: /assets/img/personal_custSeg.jpg
 redirect: https://github.com/rbghks0126/customer-segmentation-kaggle
 importance: 1.1

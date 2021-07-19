@@ -17,7 +17,7 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, I'm Gyu Hwan. I am a Master of Science (Mathematics & Statistics) student at the University of Melbourne. I am studying coursework subjects in mathematics, statistics, operations research and machine learning. I will also be completing a 18-month research project. My current research interests lie in classical statistical machine learning and modern machine learning like deep learning. 
+Hello, I'm Gyu Hwan. I am a Master of Science (Mathematics & Statistics) student at the University of Melbourne. I am studying coursework subjects in mathematics, statistics, operations research and machine learning. I will also be completing an 18-month research project. My current interest is in developing methods to enhance interpretation of non-linear dimension reduction algorithms using Gaussian Processes or Variational Autoencoders.
 
 My career interests are in the domains of data analytics, data science and machine learning. I hope to work in a field where I can apply my statistical knowledge of machine learning and data analysis to drive powerful and innovative solutions.
 
