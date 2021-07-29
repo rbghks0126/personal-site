@@ -8,13 +8,13 @@ profile:
   align: right
   image: prof_pic.jpg
   #address: >
-   # <p>555 your office number</p>
-   # <p>123 your address street</p>
-   # <p>Your City, State 12345</p>
+  # <p>555 your office number</p>
+  # <p>123 your address street</p>
+  # <p>Your City, State 12345</p>
 
 #news: true  # includes a list of news items
 #selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Hello, I'm Gyu Hwan. I am a Master of Science (Mathematics & Statistics) student at the University of Melbourne. I am studying coursework subjects in mathematics, statistics, operations research and machine learning. I will also be completing an 18-month research project. My current interest is in developing methods to enhance interpretation of non-linear dimension reduction algorithms using Gaussian Processes or Variational Autoencoders.
@@ -48,6 +48,12 @@ I hope to use this website as a medium to share some of my projects relating to 
     <div class="content">
       <h5>2021 - 2022 (expected)</h5>
       <p>Master of Science (Mathematics & Statistics) - University of Melbourne</p>
+    </div>
+  </div>
+  <div class="box left">
+    <div class="content">
+      <h5>July 2021 - Current </h5>
+      <p>Python Developer & Researcher Intern - 9epoch</p>
     </div>
   </div>
 </div>
