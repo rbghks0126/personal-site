@@ -52,8 +52,8 @@ I hope to use this website as a medium to share some of my projects relating to 
   </div>
   <div class="box left">
     <div class="content">
-      <h5>July 2021 - Feb 2021 </h5>
-      <p>Python Developer & Researcher Intern - 9epoch</p>
+      <h5>Aug 2021 - Feb 2021 </h5>
+      <p>Data Scientist - 9epoch</p>
     </div>
   </div>
 </div>
