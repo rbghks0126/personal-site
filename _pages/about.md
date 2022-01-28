@@ -17,9 +17,9 @@ profile:
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello, I'm Gyu Hwan. I am a Master of Science (Mathematics & Statistics) student at the University of Melbourne. I am studying coursework subjects in mathematics, statistics, operations research and machine learning. I will also be completing an 18-month research project. My current interest is in developing methods to enhance interpretation of non-linear dimension reduction algorithms using Gaussian Processes or Variational Autoencoders.
+Hello, I'm Gyu Hwan (this is my first name). I am a Master of Data Science student at the University of Melbourne. I am passionate in data science, in particular its applications in cryptocurrencies/financial markets.
 
-My career interests are in the domains of data analytics, data science and machine learning. I hope to work in a field where I can apply my statistical knowledge of machine learning and data analysis to drive powerful and innovative solutions.
+I am also deeply interested in long-term investing. I hope to work in a field where I can apply my statistical knowledge of data science techniques in the domain of finance and investment.
 
 I hope to use this website as a medium to share some of my projects relating to statistics, machine learning, data science.
 
@@ -46,13 +46,13 @@ I hope to use this website as a medium to share some of my projects relating to 
   </div>
   <div class="box right">
     <div class="content">
-      <h5>2021 - 2022 (expected)</h5>
-      <p>Master of Science (Mathematics & Statistics) - University of Melbourne</p>
+      <h5>2021 - 2023 (expected)</h5>
+      <p>Master of Data Science - University of Melbourne</p>
     </div>
   </div>
   <div class="box left">
     <div class="content">
-      <h5>July 2021 - Current </h5>
+      <h5>July 2021 - Feb 2021 </h5>
       <p>Python Developer & Researcher Intern - 9epoch</p>
     </div>
   </div>
