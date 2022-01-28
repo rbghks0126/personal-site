@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: MSc (Mathematics & Statistics) Student at the University of Melbourne.
+description: Master of Data Science student at the University of Melbourne.
 
 profile:
   align: right
