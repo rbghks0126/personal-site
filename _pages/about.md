@@ -50,7 +50,7 @@ I hope to use this website as a medium to share some of my projects relating to 
   </div>
   <div class="box left">
     <div class="content">
-      <h5>Aug 2021 - Feb 2021 </h5>
+      <h5>Aug 2021 - Feb 2022 </h5>
       <p>Data Scientist - 9epoch</p>
     </div>
   </div>
