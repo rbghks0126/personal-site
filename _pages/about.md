@@ -17,9 +17,7 @@ profile:
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello, I'm Gyu Hwan (this is my first name). I am a Master of Data Science student at the University of Melbourne. I am passionate in data science, in particular its applications in cryptocurrencies/financial markets.
-
-I am also deeply interested in long-term investing. I hope to work in a field where I can apply my statistical knowledge of data science techniques in the domain of finance and investment.
+Hello, I'm Gyu Hwan (this is my first name). I am a Master of Data Science student at the University of Melbourne. I am passionate in data science, in particular how engineering and statistics meet in creating actionable insights.
 
 I hope to use this website as a medium to share some of my projects relating to statistics, machine learning, data science.
 
