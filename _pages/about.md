@@ -32,7 +32,7 @@ I hope to use this website as a medium to share some of my projects relating to 
   </div>
   <div class="box right">
     <div class="content">
-      <h5>Feb. 2020</h5>
+      <h5>Feb 2020</h5>
       <p>Data Analytics Intern - Campus Analytics Team</p>
     </div>
   </div>
@@ -54,14 +54,12 @@ I hope to use this website as a medium to share some of my projects relating to 
       <p>Data Scientist - 9epoch</p>
     </div>
   </div>
-</div>
   <div class="box right">
     <div class="content">
       <h5>Feb 2022 - Nov 2022 </h5>
       <p>Associate Investment Analyst - Antipodes Partners</p>
     </div>
   </div>
-</div>
 <div class="box left">
   <div class="content">
     <h5>Nov 2022 - Feb 2023 </h5>
