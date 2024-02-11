@@ -38,13 +38,13 @@ I hope to use this website as a medium to share some of my projects relating to 
   </div>
   <div class="box left">
     <div class="content">
-      <h5>Dec. 2020 - Feb. 2021 </h5>
+      <h5>Dec 2020 - Feb 2021 </h5>
       <p>Summer Research Intern - Australian Mathematical Sciences Institute</p>
     </div>
   </div>
   <div class="box right">
     <div class="content">
-      <h5>2021 - 2023 (expected)</h5>
+      <h5>2021 - 2023</h5>
       <p>Master of Data Science - University of Melbourne</p>
     </div>
   </div>
@@ -52,6 +52,26 @@ I hope to use this website as a medium to share some of my projects relating to 
     <div class="content">
       <h5>Aug 2021 - Feb 2022 </h5>
       <p>Data Scientist - 9epoch</p>
+    </div>
+  </div>
+</div>
+  <div class="box right">
+    <div class="content">
+      <h5>Feb 2022 - Nov 2022 </h5>
+      <p>Associate Investment Analyst - Antipodes Partners</p>
+    </div>
+  </div>
+</div>
+<div class="box left">
+  <div class="content">
+    <h5>Nov 2022 - Feb 2023 </h5>
+    <p>Quantitative Research Intern - Akuna Capital</p>
+    </div>
+  </div>
+<div class="box right">
+  <div class="content">
+    <h5>Feb 2024 - Current </h5>
+    <p>Graduate Quantitative Researcher - Optiver</p>
     </div>
   </div>
 </div>
