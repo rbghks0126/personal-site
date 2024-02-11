@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Master of Data Science student at the University of Melbourne.
+description: Welcome to my little blog.
 
 profile:
   align: right
@@ -17,9 +17,9 @@ profile:
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello, I'm Gyu Hwan (this is my first name). I am a Master of Data Science student at the University of Melbourne. I am passionate in data science, in particular how engineering and statistics meet in creating actionable insights.
+Hello, I'm Gyu. I am a Graduate Quantitative Researcher at Optiver in Sydney. I completed the Master of Data Science degree at the University of Melbourne. I am passionate in data science, in particular how engineering and statistics meet in creating actionable insights.
 
-I hope to use this website as a medium to share some of my projects relating to statistics, machine learning, data science.
+I hope to use this website as a medium to share some of my projects relating to statistics, machine learning, and data science.
 
 <br>
 <h4><center>My Experience </center> </h4>
